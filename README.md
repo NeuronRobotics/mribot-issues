@@ -3,6 +3,7 @@
 
 If you loose power and need to re-program card.
 attatch JTAG cable to card and do this.
+if you have problems then reboot and email me.
 
 CD to `~/git/thoughtstabber/FPGASources`
 run `./progcard.sh`
